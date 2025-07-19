@@ -1,5 +1,5 @@
 
-# 📰 Fake News Detection using Machine Learning
+## 📰 Fake News Detection using Machine Learning
 
 This project uses machine learning to detect whether a news article is real or fake based on its content.
 
